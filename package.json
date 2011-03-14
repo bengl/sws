@@ -1,0 +1,13 @@
+{
+  "name": "sws",
+  "description": "An instant Static Web Server (for static content).  Actually just a command line runner for connect.[static|staticProvider].",
+  "version": "0.0.1",
+  "author": "Bryan English <bryan@bryanenglish.com>",
+  "dependencies": {
+    "connect": ">= 0.1.0",
+    "cli": ">= 0.2.8"
+  },
+  "keywords": ["web", "server", "static"],
+  "bin": { "sws": "./sws" },
+  "engines": { "node": ">=0.2.5" }
+}
