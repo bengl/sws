@@ -17,13 +17,13 @@
 
 ## Usage
 
-    $ sws [OPTIONS] [ARGS]
+    sws [OPTIONS] [ARGS]
 
-Options: 
-  -p, --port [NUMBER]    Listen on this port (Default is 8080)
-  -s, --serve [PATH]     Serve static files from PATH (Default is .)
-  -v, --version          Display the current version
-  -h, --help             Display help and usage details
+    Options: 
+      -p, --port [NUMBER]    Listen on this port (Default is 8080)
+      -s, --serve [PATH]     Serve static files from PATH (Default is .)
+      -v, --version          Display the current version
+      -h, --help             Display help and usage details
 
 ## License 
 
